@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: aliceblue;
+}
+
+.one {
+  border: 8px solid red;
+  width: 1000px;
+  height: auto;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.header {
+  text-align: center;
+  background-color: azure;
+}
+.header img {
+  margin-top: 20px;
+}
+.header h1 {
+  background-color: red;
+  color: aliceblue;
+}
+.body {
+  text-align: center;
+  color: black;
+}
+.resume {
+  display: flex;
+  background-color: white;
+}
+.resume1 {
+  border-right: 2px solid red;
+  padding: 20px;
+  width: 50%;
+}
+.resume2 {
+  width: 50%;
+  padding: 20px;
+}
+.data {
+  color: blue;
+}
+.data2,
+p {
+  color: black;
+}
+.da2 {
+  color: blueviolet;
+}
